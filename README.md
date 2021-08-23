@@ -1,1 +1,1 @@
-# pixgram-chain-contracts
+# pixbee-chain-contracts
