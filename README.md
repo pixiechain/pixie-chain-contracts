@@ -1,1 +1,1 @@
-# pixbee-chain-contracts
+# pixie-chain-contracts
